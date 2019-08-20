@@ -1,7 +1,7 @@
 # java-code
 i want the code to display the banking process
 
-mport java.util.Scanner;
+import java.util.Scanner;
 
 class Bank
 {
